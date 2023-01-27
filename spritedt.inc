@@ -1,23 +1,6 @@
 ; File: spritedt.inc
 ; Purpose: Sprite data definitions
 
-SPRITE_SCORE_DIGIT_0    = $00 ; 0
-SPRITE_SCORE_DIGIT_1    = $01 ; 1
-SPRITE_SCORE_DIGIT_2    = $02 ; 2
-SPRITE_SCORE_DIGIT_3    = $03 ; 3
-SPRITE_SCORE_DIGIT_4    = $04 ; 4
-SPRITE_SCORE_DIGIT_5    = $05 ; 5
-SPRITE_LIFETIME_DIGIT   = $06 ; 6
-SPRITE_PLAYER_AVATAR    = $07 ; 7
-SPRITE_BULLET_0         = $08 ; 8
-SPRITE_BULLET_1         = $09 ; 9
-SPRITE_BULLET_2         = $0A ; 10
-SPRITE_BULLET_3         = $0B ; 11
-SPRITE_SEED_0           = $0C ; 12
-SPRITE_SEED_1           = $0D ; 13
-SPRITE_SEED_2           = $0E ; 14
-SPRITE_SEED_3           = $0F ; 15
-
 SPRITE_FIRST_RING_0     = $00 ; 0
 SPRITE_LAST_RING_0      = $0F ; 15
 SPRITE_FIRST_RING_1     = $10 ; 16
